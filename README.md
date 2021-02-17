@@ -23,6 +23,7 @@ As a community of passionate developers and artists, we believe we are equipped 
 * Accurate timing controls from the host, such as beats, bpm, and swing.
 * Per-note modulation (i.e velocity, pan).
 * Micro-pitch expressions with automatable pitch curves per-note.
+* Automatable velocity and pan curves per-note.
 * Support for non-12 EDO scales.
 * Sample-accurate automation.
 * The ability for the host to properly voice each note, removing this burden from the plugin developer.
