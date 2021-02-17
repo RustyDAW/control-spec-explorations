@@ -1,4 +1,4 @@
-# Control Spec Explorations
+# Control Specification Explorations
 A place to discuss a potential custom new audio control format for use with the RustyDAW project.
 
 # Objective
