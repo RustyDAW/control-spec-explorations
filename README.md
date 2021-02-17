@@ -18,6 +18,7 @@ As a community of passionate developers and artists, we believe we are equipped 
 # Key Features
 
 * The ability to convert to and from standard MIDI. It doesn't need full backwards compatibility (in fact, we think that would be a hinderance), but enough to support the majority of DAWs and plugins on the market.
+* Fully open-source and community driven.
 * This standard should not deal with plugin parameters at all. This should be left to the plugin api. Instead, we will use "automation nodes" that behave like audio inputs/outputs but for automation data.
 * The ability to create as many input/output automation nodes as desired at runtime, with the ability to connect these nodes in any way.
 * Accurate timing controls from the host, such as beats, bpm, and swing.
